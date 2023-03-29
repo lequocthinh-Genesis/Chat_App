@@ -4,7 +4,7 @@
 
 ## Mô tả project:
 
-- Đây là project tôi thực hiện tìm hiểu và sử dụng `AJAX`. 
+- Xây dựng một website trò truyện trực tuyến
 
 ## Công nghệ sử dụng:
 
